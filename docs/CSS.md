@@ -4,6 +4,7 @@ id: CSS
 slug: /
 sidebar_label: CSS
 title: CSS Tokens
+tags: [tokens]
 
 ---
 

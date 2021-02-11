@@ -25,6 +25,7 @@ fs.readdirSync(TOKENS_FOLDER).forEach((file) => {
   slug: /
   sidebar_label: ${docName}
   title: ${docName} Tokens
+  tags: [tokens]
   ---
   | Key | Value |
   | ------------- | ------------- |
